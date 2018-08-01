@@ -6,5 +6,9 @@ module Wangtron
     def self.get
        'Swole!'
     end
+    
+    def self.cardio
+       'GAINZ LOST!'
+    end
   end
 end
